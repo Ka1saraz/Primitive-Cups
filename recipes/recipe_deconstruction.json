@@ -5,7 +5,7 @@
     "activity_level": "LIGHT_EXERCISE",
     "time": "20 s",
     "qualities": [ { "id": "HAMMER", "level": 1 } ],
-    "components": [ [ [ "stick", 1 ], [ "splinter", 1, 2 ] ] ],
+    "components": [ [ [ "stick", 1 ], [ "splinter", 1 ] ] ],
     "flags": [ "BLIND_EASY" ]
   }
 ]
