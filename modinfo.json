@@ -1,10 +1,10 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "wooden_tankards",
-    "name": "Wooden Tankards",
+    "id": "primitive_cups",
+    "name": "Primitive Cups",
     "authors": [ "Kaisaraz" ],
-    "description": "Adds craftable wooden tankards to the game.",
+    "description": "Adds recipes for primitive cups.",
     "category": "misc_additions",
     "dependencies": [ "dda" ]
   }
