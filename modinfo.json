@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "wooden_tankards",
+    "name": "Wooden Tankards",
+    "authors": [ "Ka1saraz" ],
+    "description": "Adds craftable wooden tankards to the game.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
